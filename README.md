@@ -7,15 +7,6 @@
 - Back-end Developer in training  
 - Where to find me: kaiomendonca.dev@hotmail.com
 
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kaiomendonca&show_icons=true&theme=radical&include_all_commits=true&rank_icon=default&v=1"
-    height="165"
-    style="margin-right: 20px;"
-  />
-  
-
   ## Stacks:
 <p align="center">
   <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
