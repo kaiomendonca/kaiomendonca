@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kaiomendonca&show_icons=true&theme=radical&include_all_commits=true&rank_icon=default"
+    src="https://github-readme-stats.vercel.app/api?username=kaiomendonca&show_icons=true&theme=radical&include_all_commits=true&rank_icon=default&v=1"
     height="165"
     style="margin-right: 20px;"
   />
