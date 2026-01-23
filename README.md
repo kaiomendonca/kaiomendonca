@@ -1,3 +1,13 @@
+<h2 align="center">👋 Kaio Mendonça</h2>
+
+<p align="center">
+  <strong>A guy completely passionate about technology, programming, and data.</strong>
+</p>
+
+- Back-end Developer in training  
+- Where to find me: kaiomendonca.dev@hotmail.com
+
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=kaiomendonca&show_icons=true&theme=radical&include_all_commits=true&rank_icon=default"
@@ -29,10 +39,3 @@
 </div>
 
 ##
-
-
-
-## 👋 Kaio Mendonça
-
-- Back-end Developer em formação
-- Python | SQL | NoSQL | Kafka | MySQL | MongoDB | Django | HTML | CSS
