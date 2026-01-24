@@ -15,8 +15,8 @@
   <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="36" style="margin:0 10px; vertical-align: middle;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="36" style="margin:0 10px; vertical-align: middle;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width="48" style="margin:0 14px; vertical-align: middle;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="48" style="margin:0 14px; vertical-align: middle;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
 
 ##
