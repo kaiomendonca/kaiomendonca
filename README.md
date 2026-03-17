@@ -15,6 +15,7 @@
   <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="48" style="margin:0 14px; vertical-align: middle;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://logo.svgcdn.com/devicon/sqlalchemy-original.svg" alt="SQLAlchemy logo" />
   <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="48" style="margin:0 14px; vertical-align: middle;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
