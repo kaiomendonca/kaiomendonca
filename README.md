@@ -20,6 +20,7 @@
   <img width="48" style="margin:0 14px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="48" style="margin:0 14px; vertical-align: middle;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="48" style="margin:0 14px; vertical-align: middle;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width="48" style="margin:0 14px; vertical-align: middle;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
   
   
 </p>
