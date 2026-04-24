@@ -4,7 +4,7 @@
   <strong>A guy completely passionate about technology, programming, and data.</strong>
 </p>
 
-- Back-end Developer in training  
+- Back-end Developer 
 - Where to find me: kaiomendonca.dev@hotmail.com
 
   ## Stacks:
